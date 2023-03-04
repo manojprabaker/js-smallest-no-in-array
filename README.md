@@ -1,0 +1,1 @@
+# js-smallest-no-in-array
